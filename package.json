@@ -1,0 +1,15 @@
+{
+  "name": "web-automation-playwright",
+  "version": "1.0.0",
+  "description": "Web automation tests using Playwright with Firefox",
+  "main": "index.js",
+  "scripts": {
+    "test": "node auth.test.js"
+  },
+  "keywords": ["playwright", "firefox", "automation"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "playwright": "^1.40.0"
+  }
+}
